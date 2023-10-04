@@ -1,5 +1,5 @@
 # "Strat"-Style Partscaster Guitar
-This repository is meant to document the at-home build of a DIY guitar, a project completed over a few weeks in 2022.
+This repository is intended to document the at-home build of a DIY guitar, a project completed over a few weeks in 2022.
 
 ## Parts Sources
 ### Body
