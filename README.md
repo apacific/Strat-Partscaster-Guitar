@@ -3,7 +3,7 @@ This repository is intended to document the at-home build of a DIY guitar, a pro
 
 ## Parts Sources
 ### Body
-The guitar's body was purchased unfinished from [Warmoth Custom Guitar & Bass Parts] (https://warmoth.com), a licensed manufacturer of Fender brand guitar necks and bodies located in Puyallup, WA. It was chosen specifically for its low cost; namely, it was the cheapest in-stock option at the time.
+The guitar's body was purchased unfinished from [Warmoth Custom Guitar & Bass Parts](https://warmoth.com), a licensed manufacturer of Fender brand guitar necks and bodies located in Puyallup, WA. It was chosen specifically for its low cost; namely, it was the cheapest in-stock option at the time.
 ### Neck
 The guitar's neck, also unfinished, was sourced from [Musikraft](https://musikraft.com) in Vineland, New Jersey. Upgrades I couldn't live without were jumbo stainless steel frets and a 24.75-inch "short" scale length.
 ### Electronics
